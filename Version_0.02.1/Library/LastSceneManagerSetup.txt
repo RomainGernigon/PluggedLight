@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Imported/Ressources/Ressources-Niveau-1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
